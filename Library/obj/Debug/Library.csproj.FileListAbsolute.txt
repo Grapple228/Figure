@@ -1,0 +1,12 @@
+C:\Users\Green Apple\RiderProjects\EmptyProject1\Library\bin\Debug\Library.dll
+C:\Users\Green Apple\RiderProjects\EmptyProject1\Library\bin\Debug\Library.pdb
+C:\Users\Green Apple\RiderProjects\EmptyProject1\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Green Apple\RiderProjects\EmptyProject1\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Green Apple\RiderProjects\EmptyProject1\Library\obj\Debug\Library.dll
+C:\Users\Green Apple\RiderProjects\EmptyProject1\Library\obj\Debug\Library.pdb
+C:\Users\Green Apple\RiderProjects\Figure\Library\bin\Debug\Library.dll
+C:\Users\Green Apple\RiderProjects\Figure\Library\bin\Debug\Library.pdb
+C:\Users\Green Apple\RiderProjects\Figure\Library\obj\Debug\Library.csproj.AssemblyReference.cache
+C:\Users\Green Apple\RiderProjects\Figure\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Green Apple\RiderProjects\Figure\Library\obj\Debug\Library.dll
+C:\Users\Green Apple\RiderProjects\Figure\Library\obj\Debug\Library.pdb
